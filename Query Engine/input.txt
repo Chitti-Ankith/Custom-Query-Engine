@@ -1,0 +1,2 @@
+get eid,ename,salary,eaddress,deptno from emp.txt where eid==5 or eid<=3 or ename==ahl or ename==ankith and ename == phani
+
