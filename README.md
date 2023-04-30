@@ -7,10 +7,10 @@ File 1: EMP.txt: to store employee data. Each employee record will have followin
 
 Query Language MQL specifications:
 
-GET <fields list separated by comma> FROM <file> WHERE <cond1> AND/OR <cond2> AND/OR .....; // multiple conditions like n SQL
-INSERT RECORD (<v1, v2,..>) INTO <filename>;
-UPDATE RECORD IN <filename> SET <fileld> TO <newvalue> WHERE <cond1> AND/OR <cond2> AND/OR...; // multiple conditions like n SQL
-DELETE RECORD FROM <filename> WHERE <cond1> AND/OR <cond2> AND/OR...;
+1) GET <fields list separated by comma> FROM <file> WHERE <cond1> AND/OR <cond2> AND/OR .....; // multiple conditions like in SQL
+2) INSERT RECORD (<v1, v2,..>) INTO <filename>;
+3) UPDATE RECORD IN <filename> SET <fileld> TO <newvalue> WHERE <cond1> AND/OR <cond2> AND/OR...; // multiple conditions like n SQL
+4) DELETE RECORD FROM <filename> WHERE <cond1> AND/OR <cond2> AND/OR...;
 
 
 NOTE:
