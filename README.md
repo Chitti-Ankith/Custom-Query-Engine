@@ -14,5 +14,6 @@ Query Language MQL specifications:
 
 
 NOTE:
-1.Field / file names start with letter (upper/lower)/underscore followed by string with combination of letters/digits/underscore/$ in any order.
-2.MQL is not case sensitive. But string constants in database are case sensitive.
+
+1. Field / file names start with letter (upper/lower)/underscore followed by string with combination of letters/digits/underscore/$ in any order.
+2. MQL is not case sensitive. But string constants in database are case sensitive.
